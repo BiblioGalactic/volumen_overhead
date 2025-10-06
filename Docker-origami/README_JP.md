@@ -99,5 +99,6 @@ COMPILE_AUTO=true COMPILE_CMD="python setup.py build"
 
 ⸻
 
-作成者: Gustavo Silva da Costa
-推奨リポジトリ: Bibliogalactic
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

@@ -108,7 +108,8 @@ Notes
 
 ⸻
 
-Author: Gustavo Silva da Costa
-Suggested Repository: Bibliogalactic
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic
 
 

@@ -99,5 +99,6 @@ COMPILE_AUTO=true COMPILE_CMD="python setup.py build"
 
 ⸻
 
-作者: Gustavo Silva da Costa
-建议仓库: Bibliogalactic
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic

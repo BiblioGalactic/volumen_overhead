@@ -99,5 +99,6 @@ Notas
 
 ⸻
 
-Autor: Gustavo Silva da Costa
-Repositorio sugerido: Bibliogalactic
+**Eto Demerzel** (Gustavo Silva Da Costa)
+https://etodemerzel.gumroad.com  
+https://github.com/BiblioGalactic
